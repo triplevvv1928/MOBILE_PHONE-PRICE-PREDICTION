@@ -7,7 +7,3 @@ In this project, we are going to explore and analyze a dataset which contains sp
 
 We split our data into training and validation datasets and apply ML pipeline on these two. Than, run the most accurate model(knn) to predict target values of test dataset. You can reach the dataset from  [documentation on ReadTheDocs](https://www.kaggle.com/iabhishekofficial/mobile-price-classification)
 
-
-## 2. Getting help 
-
-Please contact zealptekin@gmail.com
